@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ac394
-- 👀 I’m interested in ... WebDev
-- 🌱 I’m currently learning ... HTML/CSS3
+- 👀 I’m interested in WebDev
+- 🌱 I’m currently learning HTML/CSS3/JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
